@@ -3,7 +3,7 @@
 ## Description
 These are the record works which were completed during the time of my college coursework of Operating Systems. Each experiment is designed to help understand and apply various scientific and programming concepts.
 
-Ex - 01: [Installation of Linux and basic commands of Linux](Ex - 01)
+Ex - 01: [Installation of Linux and basic commands of Linux](#Ex - 01)
 Ex - 02: System Monitoring using shell Script  
 Ex - 03: Employee pay average calculation using awk scripting files  
 Ex - 04: User - Defined Signal handler using C program  
